@@ -1,12 +1,14 @@
 # NEON FLATLINE
 
+### ▶ [Play now in your browser](https://dounodeman.github.io/neon-flatline/)
+
 A top-down cyberpunk arena survival game that runs in the browser. Chrome up, hack the gangs, and survive the rain-soaked streets of Vanta City without losing your humanity.
 
 Everything is one `index.html`: HTML5 Canvas, vanilla JavaScript, and Web Audio. The music, sound effects, neon signs, and rain are all generated in code, so there are no image or audio files.
 
 ## Play
 
-Open `index.html` in a modern browser (Chrome, Edge, Safari, Firefox). Fonts load from Google Fonts. Without a connection the game still works and falls back to system fonts.
+Play it at **https://dounodeman.github.io/neon-flatline/** (desktop with keyboard and mouse), or download `index.html` and open it in a modern browser (Chrome, Edge, Safari, Firefox). Fonts load from Google Fonts. Without a connection the game still works and falls back to system fonts.
 
 ## Controls
 
